@@ -8,9 +8,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.7.0",
+    "@emotion/styled": "^11.6.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "@material-ui/core": "^4.12.3",
+    "@mui/icons-material": "^5.2.0",
+    "@mui/material": "^5.2.1",
+    "@mui/x-data-grid": "^5.0.1",
+    "bootstrap": "^5.1.3",
     "next": "12.0.4",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-bootstrap": "^2.0.2",
+    "react-dom": "17.0.2",
+    "react-profile-card": "^0.1.4",
+    "tailwindcss": "^2.2.19"
   },
   "devDependencies": {
     "eslint": "7.32.0",
